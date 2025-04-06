@@ -30,14 +30,6 @@ Welcome to the **Intelligent Expense Tracker** — a modern and lightweight web 
 
 ---
 
-## 📸 Screenshots
-
-> You can add screenshots here to demonstrate how the app looks.
-
-![Dashboard Screenshot](screenshots/dashboard.png)
-![Add Transaction](screenshots/add_transaction.png)
-
----
 
 ## 📂 Folder Structure
 
